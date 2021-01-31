@@ -5,7 +5,7 @@
 </p>
 
 # Bruno Rosa
-<sub>* Head of Growth* at Loylegal - Lawtech - RPA, I.A. e Machine Learning</sub>
+<sub>* Head of Growth * at Loylegal - Lawtech - RPA, I.A. e Machine Learning</sub>
 
 Sou Bruno Rocha da Rosa, Head de Growth na Loy > (https://www.loylegal.com), startup localizada em Chapecó-SC, onde desenvolvemos soluções voltadas para otimização de processos em escritórios e departartamentos jurídicos através de RPA (Robotic Process Automation), Machine Learning e Inteligência Artificial. 
 
